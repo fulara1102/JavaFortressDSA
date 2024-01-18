@@ -1,4 +1,4 @@
-package LinearSearch;
+package LinearSearch.in1D;
 
 public class ls2 {
     public static int linearSearch(int[] arr,int target){

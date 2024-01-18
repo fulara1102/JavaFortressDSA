@@ -21,14 +21,12 @@
 //
 
 
-package com.fulara.cp.gfg;
-
-import com.sun.source.tree.BreakTree;
+package com.fulara.cp.allCp;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class gfg1 {
+public class all1 {
 
     public static void main(String[] args) {
 
