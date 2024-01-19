@@ -1,4 +1,4 @@
-package LinearSearch.in2D;
+package com.fulara.LinearSearch.in2D;
 
 import java.util.Arrays;
 

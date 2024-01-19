@@ -1,4 +1,4 @@
-package LinearSearch.in1D;
+package com.fulara.LinearSearch.in1D;
 
 public class ls3 {
     public static void main(String[] args) {
