@@ -3,7 +3,7 @@ package com.fulara.LinearSearch.in1D;
 public class ls3 {
     public static void main(String[] args) {
         int[] a = {5,3,6,1,4,2};
-        int target = 61;
+        int target = 1;
         int index = linearSearch(a,target);
         System.out.println("The target is at " + index + " index");
     }
